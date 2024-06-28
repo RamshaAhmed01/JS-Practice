@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Declare Username Variable</title>
+</head>
+<body>
+
+<script>
+
+let userNAme = "Ramsha";
+console.log("Ramsha");
+</script>
+
+</body>
+</html>
+  
